@@ -12,7 +12,11 @@ I want to spread Teto everywhere possible in the internet, so you can spread our
 
 <details>
 <summary>Is this OS approved from big leagues?</summary>
+  
 **Yeah! Teto approves this OS.**
+  
 > TETOTETOTETO~
+> 
 *- Kasane Teto*
+
 </details>
