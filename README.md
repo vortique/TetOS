@@ -12,7 +12,7 @@
 
 ## License
 
-I want to spread Teto everywhere possible in the internet, so you can spread our Teto love under [The Unlicense](LICENSE) license!
+I want to spread Teto everywhere possible in the internet, so you can spread our Teto love under [the MIT](LICENSE) license!
 
 <details>
 <summary>Is this OS approved from big leagues?</summary>
