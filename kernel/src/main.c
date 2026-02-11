@@ -41,7 +41,7 @@ __attribute__((used, section(".limine_request_end"))) static volatile uint64_t l
 
 #pragma region Memory Manipulations
 
-// DO NOT rename or rename these functions! GCC and Clang needs it.
+// DO NOT rename or remove these functions! GCC and Clang needs it.
 // But these can be edited, because being not optimized
 // and possibly the logic of code will be edited and get optimized in future.
 // They can be moved to another .c file too.
