@@ -8,11 +8,7 @@
 
 ## Why "TetOS"?
 
-**TetOS** name references an UTAU(A Synthesis Program) named **Kasane Teto** (重音テト) but the actual name comes from **Machine Love** by Jamie Paige (feat. Kasane Teto) songs video (maybe the name is has deeper connections than I think, but I see it from here). I selected this name, because I love Teto. What did you expect?
-
-### See also
-
-[TetOS Timestamp](https://youtu.be/sqK-jh4TDXo?si=N67gZI-8tJyRWdVY&t=4)
+**TetOS** name references an UTAU(A Synthesis Program) named **Kasane Teto** (重音テト) but the actual name comes from **Machine Love** by Jamie Paige (feat. Kasane Teto) songs video, a detail [at start of the video]((https://youtu.be/sqK-jh4TDXo?si=N67gZI-8tJyRWdVY&t=4)) that when a computer boots, its shows **TetOS** (maybe the name is has deeper connections than I think, but I see it from here). I selected this name, because I love Teto. What did you expect?
 
 ## Motivation of this project
 
