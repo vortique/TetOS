@@ -1,6 +1,6 @@
 /** TetOS - Kernel Entry
  * 
- * @file kmain.c
+ * @file main.c
  * @author Vortique (wayw04321@gmail.com)
  * @brief Kernel entry point and initialization logic.
  * @version 0.1
