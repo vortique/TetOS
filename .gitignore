@@ -1,0 +1,11 @@
+/limine
+/edk2-ovmf
+*.iso
+*.hdd
+/iso_root
+*/bin
+*/cc-runtime
+*/freestnd-c-hdrs
+*/limine-protocol
+*.deps-obtained
+*/obj
